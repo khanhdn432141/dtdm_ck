@@ -161,7 +161,7 @@ public class ActPark extends JPanel {
             ip = "34.28.67.13";
             port = 2001;
         } else if (sv.equals("Server 2")) {
-            ip = "34.60.160.83";
+            ip = "34.16.109.97";
             port = 2002;
         } else if (sv.equals("Server 3")) {
             ip = "136.114.153.146";
